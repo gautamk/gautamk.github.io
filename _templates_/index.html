@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+    {% for file in file_list %}
+        <a href="{{ posts_dir }}/{{ file }}">{{ file }}</a>
+    {% endfor %}
+{% endblock %}
