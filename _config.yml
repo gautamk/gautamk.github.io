@@ -1,0 +1,12 @@
+# Site settings
+title: The blog
+email: gautham5678@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: gautamNitish
+github_username:  gautamk
+
+# Build settings
+markdown: kramdown
