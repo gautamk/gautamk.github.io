@@ -2,7 +2,8 @@
 layout: post
 title:  "Hello World!"
 date:   2014-12-30 08:33:28
-categories: jekyll update
+categories: blog
+comments: True
 ---
 
 So this is the first post eh ? Well here goes.

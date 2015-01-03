@@ -1,8 +1,8 @@
 ---
 layout: post
 title: New year ? Its just another day
-categories: new-year 2015
-tags: []
+categories: blog
+tags: new-year 2015
 date:   2014-12-31 08:48:28
 
 ---

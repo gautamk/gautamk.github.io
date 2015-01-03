@@ -2,6 +2,7 @@
 layout: post
 title: A New Year Yay! Nope !
 published: True
+categories: blog
 date:   2015-01-01 08:32:28
 ---
 
